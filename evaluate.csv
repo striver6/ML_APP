@@ -1,0 +1,3 @@
+Algorithm,Mean Absolute Error,Root Mean Squared Error,Relative Absolute Error,Relative Squared Error,Coefficient of Determination
+Possion,23.1962904322871,30.1161216520059,0.552060993213945,0.525216717787155,0.474783282212845
+Neural Network Regression,74.52,85.3235020378325,0.973694791215937,4.21577865520361,-3.21577865520361
